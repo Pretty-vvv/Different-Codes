@@ -1,0 +1,13 @@
+#inlude <iostream> 
+using namespace std;
+void DisplayMessage();
+int main(){
+DisplayMessage();
+DisplayMessage();
+DisplayMessage();
+}
+
+void DisplayMessage(){
+  cout<<"\n Today is a great day";
+  cout<<"\n Next day is a big big sale";
+}
